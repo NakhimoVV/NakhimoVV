@@ -2,7 +2,7 @@
 
 Я Алексей, фронтенд-разработчик. React, TypeScript, Node.js.
 Здесь — мои пет-проекты и эксперименты.
-
+---
 [![Портфолио и контакты](https://img.shields.io/badge/%D0%9F%D0%9E%D0%A0%D0%A2%D0%A4%D0%9E%D0%9B%D0%98%D0%9E_%D0%98_%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%AB-alekseynakhimov.ru-2ea44f?style=for-the-badge)](https://alekseynakhimov.ru)
 
 <!--
