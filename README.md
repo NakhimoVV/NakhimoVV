@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, я Алексей Нахимов! 👋
 
 <!--
 **NakhimoVV/NakhimoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
