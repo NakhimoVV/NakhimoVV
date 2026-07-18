@@ -1,5 +1,7 @@
-## Привет, я Алексей Нахимов! 👋
+## Привет! 👋
 
+Я Алексей, фронтенд-разработчик. React, TypeScript, Node.js.
+Здесь — мои пет-проекты и эксперименты.
 <!--
 **NakhimoVV/NakhimoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
