@@ -2,6 +2,9 @@
 
 Я Алексей, фронтенд-разработчик. React, TypeScript, Node.js.
 Здесь — мои пет-проекты и эксперименты.
+
+[![Портфолио и контакты](https://img.shields.io/badge/ПОРТФОЛИО_И_КОНТАКТЫ_→-alekseynakhimov.ru-2ea44f?style=for-the-badge)](https://alekseynakhimov.ru)
+
 <!--
 **NakhimoVV/NakhimoVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
